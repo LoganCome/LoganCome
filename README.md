@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi here is Logan 👋
+
+Striving for life's worth instead of striving for success
 
 <!--
 **LoganCome/LoganCome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
