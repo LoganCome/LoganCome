@@ -1,6 +1,6 @@
 ### Hi, here is Logan~ 👋
 
-Striving for life's worth instead of striving for success!
+Albert Einstein: Strive not to be a success, but rather to be of value.
 
 <!--
 **LoganCome/LoganCome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
