@@ -1,5 +1,7 @@
 ### Hi, here is Logan~ 👋
 
+My research interests are robotics and federated learning.
+
 Albert Einstein: Strive not to be a success, but rather to be of value.
 
 <!--
